@@ -23,5 +23,6 @@ namespace Ereditarietà2
         {
             return l1 + l2 + l3+ l4;
         }
+
     }
 }

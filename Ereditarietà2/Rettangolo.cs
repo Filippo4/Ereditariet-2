@@ -15,5 +15,9 @@ namespace Ereditarietà2
             high = h;
             widht = w;
         }
+        public double Area()
+        {
+            return high * widht;
+        }
     }
 }
